@@ -58,6 +58,8 @@ Full-stack AI platform for customer ticket triage and SLA routing.
 - Reached 87.8% root-cause accuracy and 67.8% urgency accuracy.
 - Built a FastAPI inference backend with a React/Tailwind dashboard for live triage and confidence visualization.
 
+Repository: [Intelligent Root Cause and Urgency Triage](https://github.com/RamilShokhiev/Intelligent-Root-Cause---Urgency-Triage)
+
 ### Behavioral Customer Segmentation Dashboard
 
 Marketing analytics system for customer behavior clustering and campaign planning.
@@ -66,6 +68,8 @@ Marketing analytics system for customer behavior clustering and campaign plannin
 - Clustered 2,012 retail customer records into 5 behavioral groups.
 - Engineered spending diversity, web intensity, and purchase-channel preference features.
 - Delivered a Streamlit and Plotly dashboard for customer cluster assignment and campaign recommendations.
+
+Repository: [Behavioral Customer Segmentation for Marketing Strategy Optimization](https://github.com/RamilShokhiev/Behavioral-Customer-Segmentation-for-Marketing-Strategy-Optimization)
 
 ## Experience Highlights
 
